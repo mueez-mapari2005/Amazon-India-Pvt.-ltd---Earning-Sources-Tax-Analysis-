@@ -129,14 +129,14 @@ Even after tax deductions, **commission revenue remains steady**, supported by c
 ##  **Dashboard Snapshots**
 
  **Dashboard Overview Page**  
-![Revenue Overview]([./RevenueOverview.png](https://github.com/mueez-mapari2005/Amazon-India-Pvt.-ltd---Earning-Sources-Tax-Analysis-/blob/main/Dashboard%20Overview%20Page.png)
+![Revenue Overview](https://github.com/mueez-mapari2005/Amazon-India-Pvt.-ltd---Earning-Sources-Tax-Analysis-/blob/main/Dashboard%20Overview%20Page.png)
 
  **Referral (Commission) IncomePage**  
-![Tax Impact]([./TaxImpact.png](https://github.com/mueez-mapari2005/Amazon-India-Pvt.-ltd---Earning-Sources-Tax-Analysis-/blob/main/Referral%20(Commission)%20Page.png)
+![Tax Impact](https://github.com/mueez-mapari2005/Amazon-India-Pvt.-ltd---Earning-Sources-Tax-Analysis-/blob/main/Referral%20(Commission)%20Page.png)
 
 
  **Direct Product Sales Page**  
-![Product Comparison]([./ProductComparison.png](https://github.com/mueez-mapari2005/Amazon-India-Pvt.-ltd---Earning-Sources-Tax-Analysis-/blob/main/Direct%20Product%20Sales%20Page.png)
+![Product Comparison](https://github.com/mueez-mapari2005/Amazon-India-Pvt.-ltd---Earning-Sources-Tax-Analysis-/blob/main/Direct%20Product%20Sales%20Page.png)
 
 ---
 
