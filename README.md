@@ -3,10 +3,6 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width="70" />
   <b> Amazon India Pvt. Ltd – Earning Sources & Tax Analysis</b><br><br>
-  <a href=https://github.com/mueez-mapari2005>
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-232F3E?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
